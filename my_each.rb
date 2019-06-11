@@ -1,7 +1,7 @@
 def my_each(arguments)
 i = 0
   argument do |argument|
-while i < argument.lenght
+while i < arguments.lenght
   i += 1
 end
 arguments
