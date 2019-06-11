@@ -4,6 +4,6 @@ i = 0
 while i < argument.lenght
   i += 1
 end
-i 
+i
 end
 end
