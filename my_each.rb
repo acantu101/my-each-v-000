@@ -1,9 +1,9 @@
-def my_each(argument)
+def my_each(arguments)
 i = 0
-  argument do |i|
+  argument do |argument|
 while i < argument.lenght
   i += 1
 end
-i
+arguments
 end
 end
